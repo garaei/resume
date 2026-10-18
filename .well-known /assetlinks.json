@@ -1,0 +1,16 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.iratech.passkey",
+      "sha256_cert_fingerprints": [
+        "C5:4C:E5:35:13:D6:C7:FA:95:4B:B4:0A:D8:5C:1D:7C:A7:37:4D:B6:48:5A:C3:38:2C:8B:FB:94:C7:2C:76:5F"
+      ]
+    }
+  }
+]
